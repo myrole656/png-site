@@ -849,25 +849,25 @@
   },
   {
     "goal": {
-      "id": "8",
-      "title": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+      "id": "",
+      "title": "",
       "indicators": [
         
         {
           "id": "8-1-1",
-          "title": "Real GDP per capita growth rate",
+          "title": "Annual growth rate of real GDP per capita",
           "description": "",
           "keywords": "",
           "href": "/png-site/8-1-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "8-2-1",
-          "title": "Real GDP per employed person growth rate",
+          "title": "Annual growth rate of real GDP per employed person",
           "description": "",
           "keywords": "",
           "href": "/png-site/8-2-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "8-3-1",
@@ -879,19 +879,19 @@
         },
         {
           "id": "8-4-1",
-          "title": "Material footprint",
+          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
           "description": "",
           "keywords": "",
           "href": "/png-site/8-4-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "8-4-2",
-          "title": "Domestic material consumption",
+          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
           "description": "",
           "keywords": "",
           "href": "/png-site/8-4-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "8-5-1",
@@ -903,19 +903,19 @@
         },
         {
           "id": "8-5-2",
-          "title": "Unemployment rate",
+          "title": "Unemployment rate, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/png-site/8-5-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "8-6-1",
-          "title": "Youth not in education, employment or training",
+          "title": "Proportion of youth (aged 15–24 years) not in education, employment or training",
           "description": "",
           "keywords": "",
           "href": "/png-site/8-6-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "8-7-1",
@@ -935,11 +935,11 @@
         },
         {
           "id": "8-8-2",
-          "title": "Compliance of labour rights",
+          "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",
           "description": "",
           "keywords": "",
           "href": "/png-site/8-8-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "8-9-1",
@@ -975,11 +975,11 @@
         },
         {
           "id": "8-a-1",
-          "title": "Aid for Trade",
+          "title": "Aid for Trade commitments and disbursements",
           "description": "",
           "keywords": "",
           "href": "/png-site/8-a-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "8-b-1",
