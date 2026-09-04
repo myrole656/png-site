@@ -1,8 +1,8 @@
 [
   {
     "goal": {
-      "id": "1",
-      "title": "End poverty in all its forms everywhere",
+      "id": "",
+      "title": "",
       "indicators": [
         
         {
@@ -87,7 +87,7 @@
         },
         {
           "id": "1-a-1",
-          "title": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income",
+          "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income",
           "description": "",
           "keywords": "",
           "href": "/png-site/1-a-1/",
