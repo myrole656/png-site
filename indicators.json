@@ -241,8 +241,8 @@
   },
   {
     "goal": {
-      "id": "3",
-      "title": "Ensure healthy lives and promote well-being for all at all ages",
+      "id": "",
+      "title": "",
       "indicators": [
         
         {
@@ -473,8 +473,8 @@
   },
   {
     "goal": {
-      "id": "4",
-      "title": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+      "id": "",
+      "title": "",
       "indicators": [
         
         {
@@ -487,11 +487,11 @@
         },
         {
           "id": "4-1-2",
-          "title": "Completion rate by educational level",
+          "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
           "description": "",
           "keywords": "",
           "href": "/png-site/4-1-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "4-2-1",
@@ -503,19 +503,19 @@
         },
         {
           "id": "4-2-2",
-          "title": "Organised learning before primary entry age",
+          "title": "Participation rate in organized learning (one year before the official primary entry age), by sex",
           "description": "",
           "keywords": "",
           "href": "/png-site/4-2-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "4-3-1",
-          "title": "Formal and non-formal education and training",
+          "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
           "description": "",
           "keywords": "",
           "href": "/png-site/4-3-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "4-4-1",
@@ -527,11 +527,11 @@
         },
         {
           "id": "4-5-1",
-          "title": "Inequality indices for education indicators",
+          "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
           "description": "",
           "keywords": "",
           "href": "/png-site/4-5-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "4-6-1",
@@ -559,11 +559,11 @@
         },
         {
           "id": "4-b-1",
-          "title": "ODA for scholarships",
+          "title": "Volume of official development assistance flows for scholarships by sector and type of study",
           "description": "",
           "keywords": "",
           "href": "/png-site/4-b-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "4-c-1",
