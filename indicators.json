@@ -241,145 +241,145 @@
   },
   {
     "goal": {
-      "id": "3",
-      "title": "Ensure healthy lives and promote well-being for all at all ages",
+      "id": "",
+      "title": "",
       "indicators": [
         
         {
           "id": "3-1-1",
-          "title": "Maternal mortality",
+          "title": "Maternal mortality ratio",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-1-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-1-2",
-          "title": "Births attended by skilled health personnel",
+          "title": "Proportion of births attended by skilled health personnel",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-1-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-2-1",
-          "title": "Infant and under-five mortality rate",
+          "title": "Under‐5 mortality rate",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-2-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-2-2",
-          "title": "Neonatal mortality",
+          "title": "Neonatal mortality rate",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-2-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-3-1",
-          "title": "HIV infections",
+          "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-3-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-3-2",
-          "title": "Tuberculosis",
+          "title": "Tuberculosis incidence per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-3-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-3-3",
-          "title": "Malaria",
+          "title": "Malaria incidence per 1,000 population",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-3-3/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-3-4",
-          "title": "Hepatitis B",
+          "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-3-4/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-3-5",
-          "title": "Neglected tropical diseases",
+          "title": "Number of people requiring interventions against neglected tropical diseases",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-3-5/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-4-1",
-          "title": "Cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+          "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-4-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-4-2",
-          "title": "Suicides",
+          "title": "Suicide mortality rate",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-4-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-5-1",
-          "title": "Treatment for substance use disorders",
+          "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-5-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-5-2",
-          "title": "Harmful use of alcohol",
+          "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-5-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-6-1",
-          "title": "Road traffic deaths",
+          "title": "Death rate due to road traffic injuries",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-6-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-7-1",
-          "title": "Family planning satisfied with modern methods",
+          "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-7-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-7-2",
-          "title": "Adolescent births",
+          "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-7-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-8-1",
-          "title": "Essential health services coverage",
+          "title": "Coverage of essential health services",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-8-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-8-2",
@@ -391,51 +391,51 @@
         },
         {
           "id": "3-9-1",
-          "title": "Household and ambient air pollution",
+          "title": "Participation rate in organized learning (one year before the official primary entry age), by sex",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-9-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-9-2",
-          "title": "Unsafe water/sanitation and lack of hygiene",
+          "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-9-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-9-3",
-          "title": "Unintentional poisoning",
+          "title": "Mortality rate attributed to unintentional poisoning",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-9-3/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-a-1",
-          "title": "Tobacco use",
+          "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-a-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-b-1",
-          "title": "Population covered by all vaccines in national programme",
+          "title": "Proportion of the target population covered by all vaccines included in their national programme",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-b-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-b-2",
-          "title": "ODA to medical research and basic health sectors",
+          "title": "Total net official development assistance to medical research and basic health sectors",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-b-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-b-3",
@@ -447,19 +447,19 @@
         },
         {
           "id": "3-c-1",
-          "title": "Health worker density",
+          "title": "Health worker density and distribution",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-c-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-d-1",
-          "title": "Health capacity and emergency preparedness",
+          "title": "International Health Regulations (IHR) capacity and health emergency preparedness",
           "description": "",
           "keywords": "",
           "href": "/png-site/3-d-1/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-d-2",
